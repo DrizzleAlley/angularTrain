@@ -1,2 +1,0 @@
-# angularTrain
-angular学习
